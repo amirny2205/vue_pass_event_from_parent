@@ -4,5 +4,7 @@
 
 <template>
   Parent2
+  <button> По нажатию на эту кнопку должен срабатывать populateData в DataComponent </button>
+
   <data-component />
 </template>
