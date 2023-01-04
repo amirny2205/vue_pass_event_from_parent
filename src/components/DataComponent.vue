@@ -1,7 +1,7 @@
 <script setup>
  import  { ref } from 'vue'
 
- let data = ref('')
+ let data = ref('olddata')
  
  function populateData () {
    data.value = [1,2,3]
